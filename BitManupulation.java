@@ -1,6 +1,6 @@
-public class BitManipulation {
+public class BitManupulation {
     public static void main(String[] args) {
-        int n = 10;  // 1010(Number)
+        int n = 10;  // 1010
 
         int i = 1;  // position
 
