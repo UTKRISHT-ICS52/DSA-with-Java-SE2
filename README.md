@@ -61,4 +61,11 @@ To build a **strong foundation in Data Structures and Algorithms (DSA)** using J
 
 ## 🧑‍🎓 Author
 <h2>Utkrisht Patel</h2>
-<p>I specialize in DSA, Java, C, and C++, and learning ( Selenium with Java) automation testing along with DevOps tools like Docker, GitHub, GitLab, and AWS. and Using tools like VS code Editor, Eclipse IDE. This combination enables me to design scalable, efficient systems while also delivering responsive, user-friendly web applications. Whether working in collaborative teams or leading projects independently, I thrive on building impactful solutions that merge innovation with usability.</p
+<h3>About Me :</h3>
+<p>I am a 2nd-year Undergraduate Computer Science student with strong interests in software engineering, applied research, and scalable systems. I have worked as an Undergraduate Researcher in IoT (sensor-based systems) and Machine Learning, with published research paper focused on solving real-world problems.
+
+I have a solid foundation in Data Structures & Algorithms (Java) and hands-on experience as a Full-Stack Java Developer, where I actively build and optimize projects with an emphasis on clean code, performance, and backend architecture.
+
+I contribute to the developer community as a Mentor at Social Code’25 and a Contributor at GSSoC’25, collaborating in open-source environments and supporting peers through code reviews and technical guidance.
+
+I have competed in multiple hackathons and was recognized as a Hackathon Winner (PACS’24) and Finalist at SmartEarth’25 (Kazakhstan), gaining experience in team-based problem solving, rapid prototyping, and technical decision-making.</p>
