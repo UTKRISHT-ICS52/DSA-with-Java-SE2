@@ -68,4 +68,4 @@ I have a solid foundation in Data Structures & Algorithms (Java) and hands-on ex
 
 I contribute to the developer community as a Mentor at Social Code’25 and a Contributor at GSSoC’25, collaborating in open-source environments and supporting peers through code reviews and technical guidance.
 
-I have competed in multiple hackathons and was recognized as a Hackathon Winner (PACS’24) and Finalist at SmartEarth’25 (Kazakhstan), gaining experience in team-based problem solving, rapid prototyping, and technical decision-making.</p
+I have competed in multiple hackathons and was recognized as a Hackathon Winner (PACS’24) and Finalist at SmartEarth’25 (Kazakhstan), gaining experience in team-based problem solving, rapid prototyping, and technical decision-making.</p>
