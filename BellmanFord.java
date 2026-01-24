@@ -1,7 +1,6 @@
+// BellmanFord Algo.  Time Complexity: O(V × E) 
 import java.util.*;
-
 class BellmanFord {
-
     static class Edge {
         int u, v, weight;
 
@@ -11,7 +10,6 @@ class BellmanFord {
             this.weight = weight;
         }
     }
-
     static void bellmanFord(int V, List<Edge> edges, int src) {
         int[] dist = new int[V];
         Arrays.fill(dist, Integer.MAX_VALUE);
